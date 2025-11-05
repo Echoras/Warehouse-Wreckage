@@ -1,0 +1,14 @@
+# Unreal Engine temporary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.user
+*.opensdf
+*.log
+*.vs
+*.VC.db
