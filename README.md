@@ -29,7 +29,7 @@ It’s a short, simple sandbox, but a fun way to test Unreal’s physics and lig
 
 ---
 
-## 🚀 How to Play
+##  How to Play
 
 1. Open the project in Unreal Engine.  
 2. Press **Play** in the editor.  
